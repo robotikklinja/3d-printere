@@ -5,7 +5,7 @@ i programmer som f.eks PrusaSlicer
 # Hvordan koble seg til Raspberry Pi for å trådløst 3D-Printe.
   ## Step 1
   Koble seg til riktig nettverk, under navnet Octoprint_Nett. Passord er markert på ruter
-  ##Step 2
+  ## Step 2
   Gå inn på http://octopi.local og logg deg inn. Brukernavn og passord ligger på printer.
   
   
