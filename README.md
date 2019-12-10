@@ -7,8 +7,11 @@ Slicers som James har bestemt at vi skal bruke er: [PrusaSlicer](https://cdn.pru
 Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sliceren.
 
 Vi Bruker SD-kort nå for å laste opp filer til 3D-printerene, og akkurat nå så er det bare Ali og Robin som har Pc-er med SD-kort slots.
-Printerene skal bli satt opp med Raspberry Pi sånn at vi kan bruke [Octopi](https://octoprint.org/download/). Da skal vi kunne styre printerene via. nettet, og dette gjelder: opplasting, start/stopp av print, overvåking av printen osv. Kobler vi kameraer og røykvarslere til Raspberry Pi-esene så blir det mulig å passe på printen.
-3D-Printerene trenger kabinetter rundt. Vi har tenkt å lage en selv
+Printerene har blitt satt opp med Raspberry Pi sånn at vi kan bruke [Octopi](https://octoprint.org/download/). Da skal vi kunne styre printerene via. nettet, og dette gjelder: opplasting, start/stopp av print, overvåking av printen osv. Kobler vi kameraer og røykvarslere til Raspberry Pi-esene så blir det mulig å passe på printen.
+3D-Printerene trenger kabinetter rundt. Vi har tenkt å lage en selv. 
+
+Vi har satt opp et nettverk i klasserommet med en midlertidig ruter(09.12.2019). Nettverket heter: Octoprint_Nett
+
 
 
 
