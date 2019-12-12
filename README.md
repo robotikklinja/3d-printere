@@ -13,7 +13,7 @@ Printerene har blitt satt opp med Raspberry Pi sånn at vi kan bruke [Octopi](ht
 Vi har satt opp et nettverk i klasserommet med en midlertidig ruter(09.12.2019). Nettverket heter: Octoprint_Nett
 
 Dette er reglene:
-![Refler](image.png)
+![Regler](bilder/image.png)
 
 
 
