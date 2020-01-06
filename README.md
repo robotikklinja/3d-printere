@@ -6,17 +6,15 @@ Slicers som vi kan bruke er [PrusaSlicer](https://cdn.prusa3d.com/downloads/driv
 
 Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sliceren.
 
-Vi Bruker SD-kort nå for å laste opp filer til 3D-printerene, og akkurat nå så er det bare Ali og Robin som har Pc-er med SD-kort slots.
-Printerene har blitt satt opp med Raspberry Pi sånn at vi kan bruke [Octopi](https://octoprint.org/download/). vi kan styre printerene via. nettet, og dette gjelder: opplasting, start/stopp av print, overvåking av printen osv. *Kobler vi kameraer og røykvarslere til Raspberry Pi-esene så blir det mulig å passe på printen*.
-3D-Printerene trenger kabinetter rundt og Vi har tenkt å lage en selv ved hjelp av denne guiden: [Kabinettguide](https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure/)
+## OctoPi
 
-Vi har satt opp et nettverk i klasserommet med en midlertidig ruter(09.12.2019). Nettverket heter: Octoprint_Nett
-For å printe via nettet må man koble seg til Octoprint_nett Wifi og skrive octopi.local som nettadresse. 
+Det var satt opp en OctoPi instance, men Raspberry Pi-en har møtt noen hardware problemer. Man kan fortsatt printe via SD-kort.
 
-Dette er reglene for å printe:
-![Regler](bilder/image.png)
+## Videre Planer
 
-
-
-
-
+- [x] Sette opp 3D-printer queue system
+- [ ] Deploye 3D-printer queue system
+- [ ] Bytte ut med 2x Raspberry Pi 4
+- [ ] Sette opp overvåking av printeren (kamera)
+- [ ] Styre alle printere over nettet
+- [ ] Sette opp kabinetter
