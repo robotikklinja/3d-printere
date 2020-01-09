@@ -6,6 +6,13 @@ Slicers som vi kan bruke er [PrusaSlicer](https://cdn.prusa3d.com/downloads/driv
 
 Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sliceren.
 
+## Status
+
+**09/01/2020**
+
+- Raspberry Pi har problemer pga power supply. Løsning: bestill powersupply som tilhører modellen.
+- Venter på bestillinger
+
 ## OctoPi
 
 Det var satt opp en OctoPi instance, men Raspberry Pi-en har møtt noen hardware problemer. Man kan fortsatt printe via SD-kort.
