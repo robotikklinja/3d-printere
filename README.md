@@ -13,6 +13,11 @@ Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sl
 - Raspberry Pi har problemer pga power supply. Løsning: bestill powersupply som tilhører modellen.
 - Venter på bestillinger
 
+**15/01/2020**
+
+- Ny router er satt opp
+- Venter på bestillinger
+
 ## OctoPi
 
 Det var satt opp en OctoPi instance, men Raspberry Pi-en har møtt noen hardware problemer. Man kan fortsatt printe via SD-kort.
