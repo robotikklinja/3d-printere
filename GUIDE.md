@@ -2,7 +2,7 @@
 
 ## Lag en G-kode:
 
-Denne guiden forutsetter at du har en STL-fil på forhånd.
+**Denne guiden forutsetter at du har en STL-fil på forhånd.**
 
 - Last ned [PrusaSlicer](https://www.prusa3d.com/drivers/) og velg "Drivers & apps" under printeren "Original Prusa I3 MK3S".
 
