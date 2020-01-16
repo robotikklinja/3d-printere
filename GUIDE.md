@@ -1,5 +1,7 @@
 # Hvordan bruke 3D-printerene?
 
+Dette er en guid laget for å gjøre det enklere å bruke 3D-printerene på robotikk sitt verksted.
+
 ## Lag en G-kode:
 
 **Denne guiden forutsetter at du har en STL-fil på forhånd.**
