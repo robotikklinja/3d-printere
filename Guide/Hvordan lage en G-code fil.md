@@ -8,7 +8,7 @@ Dette er en guid laget for å gjøre det enklere å bruke 3D-printerene på robo
 
 - Last ned [PrusaSlicer](https://www.prusa3d.com/drivers/) og velg "Drivers & apps" under printeren "Original Prusa I3 MK3S".
 
-![](bilder/Merknad%202020-01-16%20132410.png)
+![](https://github.com/robotikklinja/3d-printere/blob/master/bilder/Merknad%202020-01-16%20132410.png)
 
 Når du er inne i PrusaSlicer velger du denne boksen og legger til filen til figuren du vil printe og legger den slik du vil ha den på printeren. 
 
