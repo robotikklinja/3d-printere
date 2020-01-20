@@ -8,7 +8,7 @@ Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sl
 
 ## Lenker - Andre Dokumenter
 
-- [Guide for å printe](./GUIDE.md)
+- [Guide for å printe](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Hvordan%20lage%20en%20G-code%20fil.md)
 - [Bruk av Køsystemet](./QUEUE.md)
 
 ## Status
