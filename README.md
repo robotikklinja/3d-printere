@@ -30,6 +30,7 @@ Det var satt opp en OctoPi instance, men Raspberry Pi-en har møtt noen hardware
 ## Videre Planer
 
 - [x] Sette opp 3D-printer queue system
+- [ ] Lage brukermanual til printerne
 - [ ] Deploye 3D-printer queue system
 - [ ] Bytte ut med 2x Raspberry Pi 4
 - [ ] Sette opp overvåking av printeren (kamera)
