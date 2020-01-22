@@ -4,4 +4,4 @@ Dette er en guid laget for å gjøre det enklere å bruke 3D-printerene på robo
 
 ## Starte printeren
 
-Når du har en G-code fil på et SD-kort 
+Når du har en G-code fil på et SD-kort er du klar til å starte printen. 
