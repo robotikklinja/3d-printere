@@ -16,7 +16,7 @@ Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sl
 - [Vanlige feil på printer](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Vanlige%20feil.md)
 - [Kabinettbyggings-guide](https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure/)
 
-## Status
+## Status for internett kobling
 
 **09/01/2020**
 
