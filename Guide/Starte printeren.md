@@ -15,3 +15,7 @@ Når du har en G-code fil på et SD-kort er du klar til å starte printen.
 Deretter velger du "Print from SD" i hovedmenyen, finner ditt filnavn og trykker igjen for å starte printen.
 
 Nå vil du starte oppvarming (heating) av "Bed" og "Nozzle", og når disse er varme vil printeren automatisk starte.
+
+Valg av fillament:
+- Om du ønsker en annen farge enn hva som står i printeren må du først inn i hovedmenyen og velge "Unload fillament". Da vil "Nozzelen" varmes off og når du får beskjed drar du ut fillamentet.
+- Når du har valgt farge trykker du på autoload fillament og følger instruksjonene på printeren.
