@@ -10,11 +10,11 @@ Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sl
 
 ## Lenker - Andre Dokumenter (Guides)
 
-- [Hvordan ta av en print?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Ta%20av%20en%20print.md)
 - [Hvordan lage en G-code fil?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Hvordan%20lage%20en%20G-code%20fil.md)
 - [Hvordan starte printerne?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Starte%20printeren.md)
-- [Bruk av Køsystemet](./QUEUE.md)
+- [Hvordan ta av en print?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Ta%20av%20en%20print.md)
 - [Vanlige feil på printer](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Vanlige%20feil.md)
+- [Bruk av Køsystemet](./QUEUE.md)
 - [Kabinettbyggings-guide](https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure/)
 
 ## Status for internett kobling
