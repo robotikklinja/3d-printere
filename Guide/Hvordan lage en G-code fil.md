@@ -1,6 +1,6 @@
 # Hvordan bruke 3D-printerene?
 
-Dette er en guid laget for å gjøre det enklere å bruke 3D-printerene på robotikk sitt verksted.
+Dette er en guide laget for å gjøre det enklere å bruke 3D-printerene på robotikk sitt verksted.
 
 ## Lag en G-kode:
 
