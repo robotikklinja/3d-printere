@@ -6,7 +6,7 @@ Dette er en guide laget for å gjøre det enklere å bruke 3D-printerene på rob
 
 **Denne guiden forutsetter at du har en STL-fil på forhånd.**
 
-- Last ned [PrusaSlicer](https://www.prusa3d.com/drivers/) og velg "Drivers & apps" under printeren "Original Prusa I3 MK3S".
+- Last ned <a href="https://www.prusa3d.com/drivers/" target="blank">PrusaSlicer</a> og velg "Drivers & apps" under printeren "Original Prusa I3 MK3S".
 
 ![](bilder/Merknad%202020-01-16%20132410.png)
 
