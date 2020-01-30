@@ -8,16 +8,20 @@ Slicers som vi kan bruke er [PrusaSlicer](https://cdn.prusa3d.com/downloads/driv
 Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sliceren.
 
 
-## Lenker - Andre Dokumenter (Guides)
+## Bruk av 3D-printer (Guides)
 
 - [Hvordan lage en G-code fil?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Hvordan%20lage%20en%20G-code%20fil.md)
 - [Hvordan starte printerne?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Starte%20printeren.md)
 - [Hvordan ta av en print?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Ta%20av%20en%20print.md)
 - [Vanlige feil på printer](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Vanlige%20feil.md)
-- [Bruk av Køsystemet](./QUEUE.md)
+- [Bruk av Køsystemet](./QUEUE.md) Foreløpig ikke aktiv.
+
+## Status
+
+### Dokumenter til senere bruk
 - [Kabinettbyggings-guide](https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure/)
 
-## Status for internett kobling
+### Status for internett kobling
 
 **09/01/2020**
 
