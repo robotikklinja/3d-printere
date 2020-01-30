@@ -1,6 +1,7 @@
 # Fra Fusion til print
 
 - Start med å trykke på "tools" i verktøylinjen på toppen. 
+![](https://github.com/robotikklinja/3d-printere/blob/master/Toolbar.png)
  - Gå deretter under "Make" og trykk 3D-print.
  - La "Send to 3D print Utility" stå umarkert.
  - Trykk ok og velg lokalisjon.
