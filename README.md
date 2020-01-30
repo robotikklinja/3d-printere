@@ -9,7 +9,7 @@ Nozzle er på **0,4mm**, så husk på å konfigurere dette når du laster ned sl
 
 
 ## Bruk av 3D-printer (Guides)
-
+- [Fra Fusion til print](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Fra%20Fusion%20til%20print.md)
 - [Hvordan lage en G-code fil?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Hvordan%20lage%20en%20G-code%20fil.md)
 - [Hvordan starte printerne?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Starte%20printeren.md)
 - [Hvordan ta av en print?](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Ta%20av%20en%20print.md)
