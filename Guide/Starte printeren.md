@@ -1,4 +1,4 @@
-# Hordan bruke 3D-printerne?
+# Hvordan bruke 3D-printerne?
 
 Dette er en guide laget for å gjøre det enklere å bruke 3D-printerene på robotikk sitt verksted.
 
