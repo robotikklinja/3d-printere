@@ -21,3 +21,5 @@ Nå vil du starte oppvarming (heating) av "Bed" og "Nozzle", og når disse er va
 - Når du har valgt farge trykker du på autoload filament og følger instruksjonene på printeren.
 
 HUSK OG VELGE RIKTIG FILAMENTTYYPE I SETTINGS SLIK AT TEMPERATURENE BLIR RIKTIGE.
+
+Se neste guide: [Ta av en print](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Ta%20av%20en%20print.md)
