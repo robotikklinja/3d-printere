@@ -14,4 +14,4 @@ Dette er en guide laget for å gjøre det enklere å bruke 3D-printerene på rob
  - Trykk ok og velg lokasjon.
  ![](https://github.com/robotikklinja/3d-printere/blob/master/bilder/Convert%20to%20stl.png)
  
- Se neste guide: [Hvordan lage en g-code fil](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Hvordan%20lage%20en%20G-code%20fil.md) 
+Se neste guide: [Hvordan lage en g-code fil](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Hvordan%20lage%20en%20G-code%20fil.md) 
