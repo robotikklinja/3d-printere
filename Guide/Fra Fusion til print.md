@@ -1,3 +1,7 @@
+# Hvordan bruke 3D-printerene?
+
+Dette er en guide laget for å gjøre det enklere å bruke 3D-printerene på robotikk sitt verksted.
+
 # Fra Fusion til print
 
 - Start med å trykke på "tools" i verktøylinjen på toppen. 
