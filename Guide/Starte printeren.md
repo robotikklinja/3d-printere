@@ -24,7 +24,7 @@ HUSK OG VELGE RIKTIG FILAMENTTYYPE I SETTINGS SLIK AT TEMPERATURENE BLIR RIKTIGE
 
 ## Pause en print
 For å pause en print må du inn i hovedmenyen til printeren ved å trykke på den runde knappen ved siden av displayet. 
-![3D-Printer_display_knapp](./bilder/3D-printer_display_knapp.jpg)
+![3D-Printer_display_knapp](../bilder/3D-printer_display_knapp.jpg)
 Vri deretter på den samme knappen til du kommer ned til "Pause print".
 
 
