@@ -3,9 +3,9 @@
 ## Description
 We want to develop a comprehensive fire protection sytem for 3D printers.
 
-The goal is to have a system that gives us such peace of mind that we can allow pupils to run several printers unattended over every night in a public school in Norway, while following national and EU safety rules and not being liable if these is fire or smoke damage to the school. 
+The goal is to have a system that gives us such peace of mind that we can allow pupils to run several printers unattended over every night in a public school in Norway, while following national and EU safety rules and not being liable if there is fire or smoke damage to the school. 
 
-The system should be easy to replicate in similar circumstances, very easy to inspect and maintain and be resonably inexpensive. 
+The system should be easy to replicate in similar circumstances, very easy to inspect, maintain and be reasonably inexpensive. 
 
 ## Are some 3D printers already safe?
 Some printer manufacturers state in their certification documents that their printers are safe for unattended (overnight) use, Ultimaker 2 for example, provided that you only use their material and correctly follow all user guides. Others make the opposite claim and say that an active printer can never be left unattended, Prusa i3 for example. We argue that these claims are not enough since we want to be able to use various printers, various filament and do some modifications to the printers. Also we are not yet comfortably convinced that the risk of accidental printer-fires is small enough based on the tough use the printers see. 
