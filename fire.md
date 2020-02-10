@@ -1,7 +1,7 @@
 # Fire protection system for 3D printers 
 
 ## Description
-We want to delevlop a comprehensive fire protection sytem for 3D printers.
+We want to develop a comprehensive fire protection sytem for 3D printers.
 
 The goal is to have a system that gives us such peace of mind that we can allow pupils to run several printers unattended over every night in a public school in Norway, while following national and EU safety rules and not being liable if these is fire or smoke damage to the school. 
 
