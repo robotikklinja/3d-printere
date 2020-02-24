@@ -20,6 +20,6 @@ Deretter velg er du en plassering, når en er fornøyd med posisjoneringen trykk
 
 ![](https://raw.githubusercontent.com/robotikklinja/3d-printere/master/bilder/Merknad2020-01-16134425.png) 
 
-Til slutt eksporterer du filen til "G-code", lagre den på et lett tilgjenglig sted hvor du finner filen igjen, gjerne med ditt eget navn som filnavn. Det viktigste er at du selv kjenner igjen navnet. Jeg vil anbefales å lage en egen mappe til alle dine 3d-filer. Til slutt laster du over filen til SD-kortet.
+Til slutt eksporterer du filen til "G-code", lagre den på et lett tilgjenglig sted hvor du finner filen igjen, gjerne med ditt eget navn som filnavn. Det viktigste er at du selv kjenner igjen navnet. Jeg vil anbefale å lage en egen mappe til alle dine 3d-filer. Til slutt laster du over filen til SD-kortet.
 
 Se neste guide: [Starte printeren](https://github.com/robotikklinja/3d-printere/blob/master/Guide/Starte%20printeren.md)
