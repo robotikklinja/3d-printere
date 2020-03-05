@@ -42,7 +42,7 @@ Det var satt opp en OctoPi instance, men Raspberry Pi-en har møtt noen hardware
 For roadmap, se under projects!
 
 
-##nettside for framgangsmåte til bur:
+## nettside for framgangsmåte til bur:
 https://www.3dprintclean.com/
 
 ikke kjøpe bur men kanksje komponenter. 
