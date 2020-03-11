@@ -4,10 +4,9 @@ ventil symbol forklaring bilde (https://media.rs-online.com/t_line/L439240-02.gi
 
 ventilene skal kunne tåle 14 bar med trykk fordi det er trykket fra brannslukningsapparatet.
 ventilen skal ta 24v dc fordi det er spenningen fra pls.
+ventilen sitt symbol skal også se lignene ut som det bilde
 
 symbol til ventilen lingner/ser sånn ut (https://media.rs-online.com/t_line/L439060-04.gif)
-
-
 
 mulige solinoide ventiler.
 
