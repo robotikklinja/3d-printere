@@ -8,4 +8,4 @@
 
 demontering av brannslukningsaparat.1 (https://www.youtube.com/watch?v=tGBvvxtOe9w)
 demontering av brannslukkningsapparat.2 (https://www.youtube.com/watch?v=GwmsHIWCyyM)
-demontering for å bytte håntakk/låkk på brannslukningsapparat. til en solinoide ventil.
+demontering gjør vi for å bytte håntakk/låkk på brannslukningsapparat til en solinoide ventil.
