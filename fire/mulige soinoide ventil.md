@@ -1,4 +1,17 @@
 [Hvordan det funker](https://www.youtube.com/watch?v=-MLGr1_Fw0c)
 
+ventil symbol forklaring (image.)
+
+ventilene skal kunne tåle 14 bar med trykk fordi det er trykket fra brannslukningsapparatet.
+ventilen skal ta 24v dc fordi det er spenningen fra pls.
+
+symbol til ventilen lingner/ser sånn ut (https://media.rs-online.com/t_line/L439060-04.gif)
+
+
+
 mulige solinoide ventiler.
-[1](https://no.rs-online.com/web/p/solenoid-valves/8407020?cm_mmc=NO-PLA-DS3A-_-google-_-CSS_NO_NO_Plumbing_And_Pipeline-_-Valves_And_Taps%7CSolenoid_Valves-_-PRODUCT_GROUP&matchtype=&pla-393276713963&gclid=Cj0KCQjw0pfzBRCOARIsANi0g0tqAc1yzqvZprNvONyM6ILofa9n_az12_at5bn36aElmEJK9FhqFDMaAia2EALw_wcB&gclsrc=aw.ds)
+
+[1]()
+[2]()
+[3]()
+[4]()
