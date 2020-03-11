@@ -11,7 +11,11 @@ symbol til ventilen lingner/ser sånn ut (https://media.rs-online.com/t_line/L43
 
 mulige solinoide ventiler.
 
-[1]()
+det nermeste jeg fant. har bare TBS på solinoiden, men tåler 3-15 bar.
+[1](http://www.jsc.no/en/valves-actuation/produkter/actuation/solenoid-valves/solenoid-valves-catalog/gevs1606-detail)
+
 [2]()
+
 [3]()
+
 [4]()
