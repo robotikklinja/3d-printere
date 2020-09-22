@@ -1,7 +1,7 @@
 # Komponenter til systemet:
 
 
-## Røykvarslere:
+## Røykvarslere (testes til systemet):
 
 | Type | beskrivelse | varenummer | link | pris pr stk | Datablad |
 | ---- | ---- | ---- | ---- | ---- | ---- |
