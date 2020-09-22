@@ -9,7 +9,7 @@ Tester forskjellige røykvarslere av forskjellige typer for å finne ut hva som 
 | ------ | -------- |
 | ECO1003 Photoelectic Smoke Detektor | Ukjent |
 | Apollo Optical Smoke Detector | Ukjent | 
-
+| Optical Smoke Alarm EI105R3 | ukjent
 
 
 
