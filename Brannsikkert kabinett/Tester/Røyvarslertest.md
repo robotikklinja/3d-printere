@@ -5,8 +5,16 @@ Tester forskjellige røykvarslere av forskjellige typer for å finne ut hva som 
 
 ## Test av optiske røykvarslere:
 
-### ECO1003 Photoelectric Smoke Detector
+| Modell | Testform |
+| ------ | -------- |
+| ECO1003 Photoelectic Smoke Detektor | Ukjent |
+| Apollo Optical Smoke Detector | Ukjent | 
+
+
 
 
 ## Test av ionisk røykvarsler:
 
+| Modell | Testform |
+| ------ | -------- |
+| First Alert Smoke Detector | Ukjent |
