@@ -13,3 +13,6 @@
   - [ ] Papir
 - [ ] Tegne skisser fro kabinettet
 - [ ] Lage en prototype (underpunkter kommer)
+  - [ ] Første prototype med røykdetektering og automatisk utkobling av strømtilførsel.
+  - [ ] Legge til varmedetektorer for utløsing av gasspatroner til bruk for kveling av brann.
+  - [ ] Ordne med varsling til eier ved utløst brannalarm.
