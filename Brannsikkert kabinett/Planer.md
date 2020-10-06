@@ -10,4 +10,5 @@
   - [ ] Lakken på 3-Printerene (Wanhao-printerene)
   - [ ] Kabler (IKKE PVC -> Må evt. Være gjennomtenkt)
   - [ ] Papir
+- [ ] Tegne skisser fro kabinettet
 - [ ] Lage en prototype (underpunkter kommer)
