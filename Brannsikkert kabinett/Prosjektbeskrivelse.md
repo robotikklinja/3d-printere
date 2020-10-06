@@ -13,4 +13,4 @@ Det skal lages i brannsikre materialer for å for å hindre rask spredning av r�
 ## Videre ideer om vi har tid
 
 - Legge til gasspatoner som utløses ved en viss temperatur slik at kabinettet kveler en eventuell brann.
-- Ornde med varsling direkte til eier (gjerne vi tlf) dersom røykvarsleren slår ut.
+- Ornde med varsling direkte til eier (gjerne vi tlf) dersom røykvarsleren utløses.
