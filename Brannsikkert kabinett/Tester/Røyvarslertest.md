@@ -5,8 +5,9 @@ Tester forskjellige røykvarslere av forskjellige typer for å finne ut hva som 
 
 ## Testform
 
-Vi bygger en liten boks til å samle røyken effektivt som en simulasjon av forholdene inne i kabinettet for å se om røykvarsleren kobler ut fort eller om vi ender opp med flere hundre grader før den løser ut.
+Vi bygger/finner en liten boks til å samle røyken effektivt som en simulasjon av forholdene inne i kabinettet for å se om røykvarsleren kobler ut fort eller om vi ender opp med flere hundre grader før den løser ut.
 **PS, alle skal testes med forskjellig brensel**
+
 
 ## Mål
 - Finne den optimale typen røykvarlser for vårt system.
