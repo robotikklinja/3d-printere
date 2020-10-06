@@ -2,7 +2,7 @@
 
 
 - [x] Bestille en optisk og en ionsik røykvarsler
-- [ ] Finne en ionisk røykvarsler med line out
+- [ ] Finne en ionisk røykvarsler med line out **(Fases ut, generellt sett tregere enn optisk)**
 - [ ] Teste røykvarslere med tenka på utløsetid i forhold tilsvarende de vi vil få inne i kabinettet
 - [ ] Kjøre branntester på forskjellige materialer
   - [ ] PLA
