@@ -3,6 +3,7 @@
 
 - [x] Bestille en optisk og en ionsik røykvarsler
 - [ ] Finne en ionisk røykvarsler med line out
+- [ ] Teste røykvarslere med tenka på utløsetid i forhold tilsvarende de vi vil få inne i kabinettet
 - [ ] Kjøre branntester på forskjellige materialer
   - [ ] PLA
   - [ ] ABS
