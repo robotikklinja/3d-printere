@@ -17,6 +17,6 @@ Alle målene som trengs til kabinettet
 | Bredde3DPritnterRom | ... |
 | BreddeInkludertPLARom | Bredde3DPritnterRom * 1.25 |
 | Dybde | ... |
-| MetallTykkelse | ... |
+| MetallTykkelse | Tykkelsen på metallet som skal brukes. Brukes kun et eksempel i tegningene|
 | DørPrinterBredde | Bredde3DPritnterRom + ( MetallTykkelse / 2 ) |
 | DørPLABredde | BreddeInkludertPLARom - Bredde3DPritnterRom + ( MetallTykkelse / 2 ) |
