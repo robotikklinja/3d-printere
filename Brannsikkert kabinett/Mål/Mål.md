@@ -18,5 +18,5 @@ Alle målene som trengs til kabinettet
 | HøydeMidtRom | ... |
 | BreddePrinter | ... |
 | BreddeInkludertPLA | BreddePrinter * 1.25 |
-| MetallTykkelse | ... |
+| MetallTykkelse | Bassert på tykkelsen på metallet vi bruker i endelig produkt. Tegningene har bare en eksempel-verdi. |
 | Dybde | ... |
