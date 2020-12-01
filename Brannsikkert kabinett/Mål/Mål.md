@@ -5,9 +5,9 @@ Alle målene som trengs til kabinettet
 
 | Mål | Verdi |
 | --- | --- |
-| Høyde | ... |
-| Bredde | ... |
-| Dybde | ... |
+| Høyde | 38cm |
+| Bredde | 43,5cm |
+| Dybde | 46,5cm |
 
 
 ## Parametre for kabinett brukt i Fusion 360
