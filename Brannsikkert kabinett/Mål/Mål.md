@@ -9,6 +9,15 @@ Alle målene som trengs til kabinettet
 | Bredde | 43,5cm |
 | Dybde | 46,5cm |
 
+## Mål vifter
+
+| Mår | Verdi |
+| --- | --- |
+| Bredde | 50 mm |
+| Skruehull | 4,31 mm |
+| Sentrum til skruehull | 25.9 mm |
+| Hjørne til skruehull | 3,15 mm |
+
 
 ## Parametre for kabinett brukt i Fusion 360
 
