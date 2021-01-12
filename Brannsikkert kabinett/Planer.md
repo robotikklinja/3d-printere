@@ -13,7 +13,8 @@
   - [ ] Lakken på 3-Printerene (Wanhao-printerene)
   - [ ] Kabler (IKKE PVC -> Må evt. Være gjennomtenkt)
   - [ ] Papir
-- [ ] Tegne skisser fro kabinettet
+- [x] Tegne skisser fro kabinettet (plantegninger uten retting for feil som kan oppstå)
+- [ ] Rette på skisser etter problemer som oppstår
 - [ ] Lage en prototype (underpunkter kommer)
   - [ ] Første prototype med røykdetektering og automatisk utkobling av strømtilførsel.
   - [ ] Legge til varmedetektorer for utløsing av gasspatroner til bruk for kveling av brann.
