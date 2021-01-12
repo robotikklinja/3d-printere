@@ -11,7 +11,7 @@
 Alle mål ligger som parametere.
 
 
-## Skriefeste til vifte:
+## Skruefeste til vifte:
 
 [Plate med gjenger til å feste viftene med, Fusion 360](https://a360.co/3oTUOha)  
 Foreløpig uten faktiske mål, parametre for verdier.
