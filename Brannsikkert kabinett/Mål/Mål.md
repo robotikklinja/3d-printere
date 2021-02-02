@@ -38,3 +38,6 @@ Alle målene som trengs til kabinettet
 | SikringsBoksLangSide | 500 mm |
 | SikringsboksKortSide | 400 mm |
 | SikringsboksDybde | 100 mm |
+| HullAvstandKantSikringsSkap | 25mm |
+| HullSikringsBoksDM | 30mm |
+
