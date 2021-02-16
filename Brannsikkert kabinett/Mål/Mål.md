@@ -38,6 +38,9 @@ Alle målene som trengs til kabinettet
 | SikringsBoksLangSide | 500 mm |
 | SikringsboksKortSide | 400 mm |
 | SikringsboksDybde | 100 mm |
-| HullAvstandKantSikringsSkap | 25mm |
-| HullSikringsBoksDM | 30mm |
+| HullAvstandKantSikringsSkap | 25 mm |
+| HullSikringsBoksDM | 30 mm |
+| KabelKanalLengde | 99 mm |
+| KabelKanalHøyde | 50 mm |
+| HullKabalKanalDM | 30 mm |
 
