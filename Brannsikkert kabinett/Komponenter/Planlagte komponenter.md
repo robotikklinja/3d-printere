@@ -19,3 +19,4 @@
 - Tavle
 - Sikringer
 - Pakninger rundt dørene?
+- Hengsler til dørene
