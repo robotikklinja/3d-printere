@@ -2,7 +2,7 @@
 
 ## Egne ideer:
 
-K
+- Kabelstrip punkter bakpå til kabelmanagement.
 
 ## Andres ideer:
 
