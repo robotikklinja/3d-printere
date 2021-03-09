@@ -1,7 +1,7 @@
 # Komponenter til systemet:
 
 
-## Røykvarslere (testes til systemet):
+## Foreløpige:
 
 | Type | beskrivelse | varenummer | link | pris pr stk | Datablad | Antall |
 | ---- | ---- | ---- | ---- | ---- | ---- | --- |
@@ -18,3 +18,4 @@
 - PLS
 - Tavle
 - Sikringer
+- Pakninger rundt dørene?
