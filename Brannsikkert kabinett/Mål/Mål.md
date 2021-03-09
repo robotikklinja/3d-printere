@@ -43,4 +43,6 @@ Alle målene som trengs til kabinettet
 | KabelKanalLengde | 99 mm |
 | KabelKanalHøyde | 50 mm |
 | HullKabalKanalDM | 30 mm |
+| SikringsskapDørHøyde | 452 mm |
+| SikringsskapDørLende | 402 mm |
 
