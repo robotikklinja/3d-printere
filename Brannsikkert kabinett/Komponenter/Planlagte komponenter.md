@@ -21,3 +21,4 @@
 - Pakninger rundt dørene?
 - Hengsler til dørene
 - Filter ved viftene?
+- Støtteben til sikringsskap?
