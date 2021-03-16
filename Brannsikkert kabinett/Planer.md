@@ -16,6 +16,7 @@
 - [x] Tegne skisser fro kabinettet (plantegninger uten retting for feil som kan oppstå)
 - [ ] Rette på skisser etter problemer som oppstår
 - [ ] Finne det beste stede å lage hull i veggen mellom fillamentet og printeren for enklest mulig fillament-behandling
+- [ ] Finne løsninger for kabelmanagement på baksiden (Tenker fester vi bruke kabel strips med)
 - [ ] Lage en prototype (underpunkter kommer)
   - [ ] Første prototype med røykdetektering og automatisk utkobling av strømtilførsel.
   - [ ] Legge til varmedetektorer for utløsing av gasspatroner til bruk for kveling av brann.
