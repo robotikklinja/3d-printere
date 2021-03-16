@@ -15,8 +15,9 @@
 
 ## Komponenter jeg kommer til å trenge
 
-- PLS
+- PLS (LOGO?)
 - Tavle
 - Sikringer
 - Pakninger rundt dørene?
 - Hengsler til dørene
+- Filter ved viftene?
