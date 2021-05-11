@@ -8,7 +8,7 @@
 ## Utkast faktiske verdier:
 
 [Utkast med faktiske verdier, Fusion 360](https://a360.co/2Vn4Tq2)  
-Alle mål ligger som parametere.
+Alle mål ligger som parametere (du finer også disse under mål her på GitHub)
 
 
 ## Skruefeste til vifte:
